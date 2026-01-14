@@ -22,3 +22,8 @@ Script takes a filename as an argument.
 - Command substitution (`$()`)
 - Piping commands (`|`)
 - Text processing with `cut`
+
+## Try It Yourself
+Try solving this before looking at the solution!
+
+[View Solution](./solution.sh)
