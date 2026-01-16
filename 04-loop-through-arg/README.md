@@ -34,4 +34,4 @@ Argument 2: <arg2>
 ## 💪 Challenge Yourself!
 Try solving this on your own first - you'll learn much more by doing than by copying!
 
-[View solution] (./solution.sh)
+[View Solution](./solution.sh)
