@@ -1,4 +1,4 @@
-# Task 5: Looping through Arguments
+# Task 4: Looping through Arguments
 
 ## Description
 Write a script that loops through all command-line arguments and prints them one by one, numbered:
